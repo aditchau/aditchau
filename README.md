@@ -50,7 +50,7 @@ I am passionate about building intelligent systems that combine **Artificial Int
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/aditchau  
-- 🔗 LinkedIn: 
+- 🔗 LinkedIn: https://www.linkedin.com/in/aditya-kumar-chaubey-4439a5228 utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 📧 Email: adityachaubey648@gmail.com
 
 ---

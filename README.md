@@ -49,10 +49,9 @@ I am passionate about building intelligent systems that combine **Artificial Int
 👉 Check out my repositories below 
 
 ## 📫 Connect With Me
-- 💼 GitHub: https://github.com/aditchau  
-- 🔗 LinkedIn: https://www.linkedin.com/in/aditya-kumar-chaubey-4439a5228 utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📧 Email: adityachaubey648@gmail.com
-
+- 💼 **GitHub**: [aditchau](https://github.com/aditchau)
+- 🔗 **LinkedIn**: [Aditya Kumar Chaubey](https://www.linkedin.com/in/aditya-kumar-chaubey-4439a5228)
+- 📧 **Email**: [adityachaubey648@gmail.com](mailto:adityachaubey648@gmail.com)
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
